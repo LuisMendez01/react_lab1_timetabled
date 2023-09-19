@@ -12,3 +12,5 @@ Required Features
 A one-week calendar that includes one-hour time blocks
 Events have different titles
 Events have different colors based on their type
+
+<img src='./timetabled.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
